@@ -37,4 +37,4 @@ Another project I developed is LINKBot, a versatile Discord bot written in Pytho
 
 I also developed a C++ program called Hockey Statistics, which tackles data manipulation and storage utilizing a binary search tree. This program is capable of storing, organizing, and computing player data. It efficiently handles input, which is processed into an easy-to-read output and copied to a file, making it easy for the user to read their data.
 
-I am seeking an internship that will allow me to utilize my skills and knowledge to solve complex problems. As a hardworking and enthusiastic individual, I am eager to learn and grow in a professional environment. I am currently pursuing a B.S. in Computer Science with a 3.2 GPA and have been on the Dean's List in Fall 2021.
+I am seeking an internship that will allow me to utilize my skills and knowledge to solve complex problems. As a hardworking and enthusiastic individual, I am eager to learn and grow in a professional environment. I am currently pursuing a B.S. in Computer Science with a 3.2 GPA.
