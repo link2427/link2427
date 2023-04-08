@@ -24,4 +24,4 @@ Software Engineer (B.S. Computer Science | Mathematics Minor)
 #
 
 ### Stats
-![Jacob's GitHub Stats](https://github-readme-stats.vercel.app/api?username=link2427&show_icons=true&theme=cobalt)
+![Jacob's GitHub Stats](https://github-readme-stats.vercel.app/api?username=link2427&show_icons=true&theme=nord)
