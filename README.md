@@ -36,5 +36,3 @@ In addition to my studies, I have worked on several personal programming project
 Another project I developed is [LINKBot](https://github.com/link2427/LINK-Bot), a versatile Discord bot written in Python. This bot has a wide range of capabilities, including voice generation, image recognition, Tarkov item prices, weather information, dice and coin flipping, and stock prices. LINKBot is user-friendly and has added value to many Discord communities.
 
 I also developed a C++ program called [Hockey Statistics](https://github.com/link2427/Hockey-Player-Statistics), which tackles data manipulation and storage utilizing a binary search tree. This program is capable of storing, organizing, and computing player data. It efficiently handles input, which is processed into an easy-to-read output and copied to a file, making it easy for the user to read their data.
-
-I am seeking an internship that will allow me to utilize my skills and knowledge to solve complex problems. As a hardworking and enthusiastic individual, I am eager to learn and grow in a professional environment. I am currently pursuing a B.S. in Computer Science with a 3.2 GPA.
