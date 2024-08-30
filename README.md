@@ -1,38 +1,59 @@
 # Jacob Neel
 
-Software Engineer (B.S. Computer Science | Mathematics Minor)
+**Software Engineer**  
+_B.S. Computer Science | Mathematics Minor_
 
-#
+---
 
 ### Languages and Tools
+
 <a href=https://www.linkedin.com/in/jacob-neel-279b3b228/> 
-<img align ="left" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a>
+<img align="left" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a>
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg'>
-<img align="left" alt="CPP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 <img align="left" alt="SQLite" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-
 <br>
 
 ---
 
-<div style="text-align: center; width: 100%;">
-  <img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" alt="Animated GIF">
-</div>
-
-#
-
-### Stats
-![Jacob's GitHub Stats](https://github-readme-stats.vercel.app/api?username=link2427&show_icons=true&theme=nord)
-
-
 ### About Me
 
-As a Computer Science student at the University of Alabama in Huntsville, I have gained a strong foundation in programming and problem-solving. My coursework in data structures, algorithms, computer organization, and software engineering has provided me with hands-on experience, allowing me to apply my skills to real-world problems. I am proficient in C++, Python, Java, LUA, C#, Microsoft Office, and Git, and always strive to learn more.
+I'm a Computer Science student at the University of Alabama in Huntsville, expected to graduate in December 2024. My academic journey, combined with hands-on experience from internships and personal projects, has sharpened my skills in software development, particularly in Python, C++, Java, and Swift. 
 
-In addition to my studies, I have worked on several personal programming projects. One of my most successful projects is [RaidVoice](https://github.com/link2427/RaidVoice), a Python program that assists players of Escape from Tarkov in determining the current market price of in-game items. This program utilizes text-to-speech technology, which makes it easier for users to retrieve pricing information quickly.
+I've had the opportunity to contribute to a range of projects, from designing satellite simulation tools for the U.S. Navy to creating mobile apps and machine learning models. My work reflects a passion for solving real-world problems and an eagerness to push the boundaries of what technology can do.
 
-Another project I developed is [LINKBot](https://github.com/link2427/LINK-Bot), a versatile Discord bot written in Python. This bot has a wide range of capabilities, including voice generation, image recognition, Tarkov item prices, weather information, dice and coin flipping, and stock prices. LINKBot is user-friendly and has added value to many Discord communities.
+---
 
-I also developed a C++ program called [Hockey Statistics](https://github.com/link2427/Hockey-Player-Statistics), which tackles data manipulation and storage utilizing a binary search tree. This program is capable of storing, organizing, and computing player data. It efficiently handles input, which is processed into an easy-to-read output and copied to a file, making it easy for the user to read their data.
+### Professional Experience
+
+**Engineering Intern @ KODA Technologies**  
+_Huntsville, AL (May 2023 - Present)_
+
+- Developed a satellite simulation/modeling application, which is now deployed on two MDA telemetry ships.
+- Integrated and tested Starlink terminals, storing gathered data in a SQL database for future neural network training.
+- Engineered a high-resolution terrain data streaming capability for tile-based globe rendering systems.
+
+---
+
+### Personal Projects
+
+**[Cosmotrak](https://github.com/link2427/Cosmotrak) (August 2024)**  
+An offline-capable iOS app for satellite tracking with real-time 3D visualization, live pass alerts, and weather integration. I used Cesium and TLE data to power the app, with data delivery optimized via Cloudflare and AWS S3.
+
+**[Aeroscape](https://github.com/link2427/Aeroscape) (April 2023)**  
+A Java-based, object-oriented tile game featuring advanced gameplay mechanics such as material collection and placeable structures. I focused on creating a seamless user experience and optimized performance with render culling.
+
+**[RaidEyes](https://github.com/link2427/RaidEyes) (January 2024)**  
+A machine learning model designed for Escape from Tarkov, determining real-time market prices of in-game items. Developed using transfer learning techniques on the YOLOv8 architecture, with a custom dataset comprising millions of images.
+
+---
+
+### Education
+
+**University of Alabama in Huntsville**  
+_Huntsville, AL (Expected: Dec 2024)_
+
+- Bachelor of Science in Computer Science
+- Dean’s List (Fall 2021)
