@@ -39,13 +39,13 @@ _Huntsville, AL (May 2023 - Present)_
 
 ### Personal Projects
 
-**[Cosmotrak](https://github.com/link2427/Cosmotrak) (August 2024)**  
+**[Cosmotrak](https://apps.apple.com/us/app/cosmotrak-satellite-tracker/id6557033963) (August 2024)**  
 An offline-capable iOS app for satellite tracking with real-time 3D visualization, live pass alerts, and weather integration. I used Cesium and TLE data to power the app, with data delivery optimized via Cloudflare and AWS S3.
 
 **[Aeroscape](https://github.com/link2427/Aeroscape) (April 2023)**  
 A Java-based, object-oriented tile game featuring advanced gameplay mechanics such as material collection and placeable structures. I focused on creating a seamless user experience and optimized performance with render culling.
 
-**[RaidEyes](https://github.com/link2427/RaidEyes) (January 2024)**  
+**[RaidEyes](https://jacob-neel.com/projects/raideyes) (January 2024)**  
 A machine learning model designed for Escape from Tarkov, determining real-time market prices of in-game items. Developed using transfer learning techniques on the YOLOv8 architecture, with a custom dataset comprising millions of images.
 
 ---
