@@ -1,7 +1,7 @@
 # Jacob Neel
 
 **Software Engineer**  
-_B.S. Computer Science_
+
 
 ---
 
